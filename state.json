@@ -1,0 +1,28 @@
+{
+  "long": {
+    "direction": "long",
+    "option_type": "CALL",
+    "strike": 0,
+    "contracts": 0,
+    "max_capital": 3000.0,
+    "ladder": [0.3, 0.2, 0.4, 0.1],
+    "used_capital": 0.0,
+    "entry_count": 0,
+    "avg_price": 0.0,
+    "size": 0.0,
+    "stopped_today": false
+  },
+  "short": {
+    "direction": "short",
+    "option_type": "PUT",
+    "strike": 0,
+    "contracts": 0,
+    "max_capital": 3000.0,
+    "ladder": [0.3, 0.2, 0.4, 0.1],
+    "used_capital": 0.0,
+    "entry_count": 0,
+    "avg_price": 0.0,
+    "size": 0.0,
+    "stopped_today": false
+  }
+}

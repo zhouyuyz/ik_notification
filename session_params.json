@@ -1,0 +1,16 @@
+{
+  "day_type": "RANGE",
+  "bias": "NEUTRAL",
+  "y_high": 619,
+  "y_low": 614,
+  "y_close": 614,
+  "pred_high_range": [621, 623],
+  "pred_low_range": [611, 612],
+  "open15_setup": "RANGE_SETUP",
+  "open15_direction": "WAIT",
+  "break_level": 617.5,
+  "fail_level": 615.8,
+  "target_zone": [618.5, 619.5],
+  "notes": "区间日，614–619 大箱体，等失败结构",
+  "updated_at": "2026-01-01 09:40"
+}
